@@ -1,7 +1,7 @@
 
 <p align="center"> <br>
   <a href="https://andersongb1007.github.io/PergonStudio/">
-      <img width="150" heigth="150" src="https://github.com/Pergon-Studio/Pergon-Studio/blob/main/Portada.jpg">
+      <img width="100%" src="https://github.com/Pergon-Studio/Pergon-Studio/blob/main/Portada.jpg">
   </a>
 </p>
 
